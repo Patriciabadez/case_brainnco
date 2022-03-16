@@ -1,7 +1,6 @@
-<a href="https://user-images.githubusercontent.com/88301906/158694893-637e097a-318f-4984-9cb1-71e6b404bb71.mp4
-" target="_blank"><img src="https://user-images.githubusercontent.com/88301906/158694893-637e097a-318f-4984-9cb1-71e6b404bb71.mp4" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+
+![brainnco](https://user-images.githubusercontent.com/88301906/158695899-86ab4f44-6dce-46ff-a7f8-76e21e00b47c.gif)
 
 # Exercício de Front-end cases da Labenu(Brainnco).
 
