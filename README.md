@@ -6,8 +6,6 @@
 
 ### Link do surge: https://red-arch.surge.sh/
 
-<img src= "src/img/tela LOTERIAS.png">
-
 ## Introdução
 
 A proposta do exercício de front-end da **Brainn** é ser simples e divertido.
